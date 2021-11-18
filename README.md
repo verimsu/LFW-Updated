@@ -1,6 +1,6 @@
-# LFWA-Updated
+# LFW-Updated
 
-LFWA (Huang et al. 2007) is a widely used face attribute dataset; however it contains some labelling mistakes.
+LFW (Huang et al. 2007) is a widely used face attribute dataset; however it contains some labelling mistakes.
 
 We relabelled the test portion of the dataset in order to obtain more reliable results in comparing different face attribute learning algorithms. 
 Note that the relabelling of test set directly affects the quality of the estimated error, while errors in the training set may be tolerated to some extent by a robust model. 
